@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.nav-menu-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  font-family: roboto;
+}
+.nav-item{
+  margin-right: 20px;
+}
+.nav-link {
+  text-decoration: none;
+}
